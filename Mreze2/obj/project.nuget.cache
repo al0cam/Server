@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "xvzctKPYxAXHGuHpaB7TrKEagOGbgkPV0NTHb1C5GuWi5iZ7dndUDurdpQoVIQiVlTdoNCxG9pvCCkFWtNDOhA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bucom\\source\\repos\\Server\\Mreze2\\Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bucom\\.nuget\\packages\\videolan.libvlc.windows\\3.0.11\\videolan.libvlc.windows.3.0.11.nupkg.sha512",
+    "C:\\Users\\bucom\\.nuget\\packages\\vlc.dotnet.core\\3.1.0\\vlc.dotnet.core.3.1.0.nupkg.sha512",
+    "C:\\Users\\bucom\\.nuget\\packages\\vlc.dotnet.core.interops\\3.1.0\\vlc.dotnet.core.interops.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
